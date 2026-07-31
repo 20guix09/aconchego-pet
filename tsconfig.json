@@ -32,10 +32,10 @@
   ],
   "exclude": [
     "node_modules",
-    "db",
-    "examples",
-    "build",
-    "scripts",
+    "db/**/*",
+    "examples/**/*",
+    "build/**/*",
+    "scripts/**/*",
     "drizzle.config.ts",
     "vite.config.ts"
   ]
